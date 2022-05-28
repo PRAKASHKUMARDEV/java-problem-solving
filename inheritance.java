@@ -65,6 +65,10 @@ class manager extends employee{// base cllass varaible and method ellathayium et
           employee[4]=op;
           manager object7=(manager)employee[4];//posible beacuse e3 refer manager address (op)
           manager object5=(manager)employee[0];//not posible e0 refer employeeaddress no chancr to convert
+           for(employee i: opp){
+              system.out.println(i.gername);}//so for each we can be used reterive objects 
+             
+             
           
           
       }
