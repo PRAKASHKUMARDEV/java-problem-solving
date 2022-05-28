@@ -11,7 +11,9 @@ import java.util.*;
       System.out.println("stack is full");// ethuvuma kodukalna default eduthukkum i mean 
       else {                             //this package kulla acces pannikalam 
         i++; 
-       box[i]=n;}                      // public means we can accse anywere example main 
+       box[i]=n;}                      // public varibles  means we can accse anywere example main 
+     // private varibles  kodutha base class + derived class acces pannikalam 
+     
     }
        
        //box[i++];eppadikodukarathuthan best   
