@@ -31,6 +31,7 @@ import java.util.*;
           System.out.println("sixpack"+"  "+sixpack);
           System.out.println("dancer"+"  "+dancer);
       }
+      
     }
 
     public class Main{
@@ -40,6 +41,12 @@ import java.util.*;
            Actor RAM=new Actor("ram","white",24,"family pack","good ");
         pk.details();
         RAM.details();
+       
+      System.out.println(pk.getname()); 
+      pk.setname("prabhaprakash");
+      System.out.println("name "+pk.getname());
+      
+      
         }
     }
     
