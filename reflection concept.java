@@ -1,0 +1,4 @@
+/*relection means u dont no anything about objects that time we use refelection 
+example u dont no which class object this 
+u can use obj.getclass also ucan use obj.getmethods we should store it in array 
+*/
