@@ -3,7 +3,7 @@
  import java.lang.*;
  
  
- 
+ //.class files bin la outer.class and inner classku outer$inner.classnu craete aiyurukkum
  class outer{
     int ball;
     String name;
